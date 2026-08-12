@@ -22,9 +22,15 @@
     "prettier": "3.9.6"
   },
   "dependencies": {
+    "bcrypt": "^6.0.0",
+    "cookie-parser": "^1.4.7",
     "cors": "^2.8.6",
     "dotenv": "^17.4.2",
     "express": "^5.2.1",
-    "mongoose": "^8.24.2"
+    "express-validator": "^7.3.2",
+    "jsonwebtoken": "^9.0.3",
+    "mailgen": "^2.0.36",
+    "mongoose": "^8.24.2",
+    "nodemailer": "^9.0.5"
   }
 }
